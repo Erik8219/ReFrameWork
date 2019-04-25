@@ -1,3 +1,9 @@
+### Changes between this version and the origin framework ###
+
+This version of REFramework uses a JSON implementation instead of Excel configuration files.
+All configurations can be stored in Data\config.json
+All asset defaults are stored in Data\assets.json
+
 ### Documentation is included in the Documentation folder ###
 
 [ReFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
