@@ -36,5 +36,8 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+# Git files and other UIPath files which shall not synchronized#
+.screenshots/
 .git/
 .local/
